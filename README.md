@@ -1,7 +1,14 @@
 # ServiceNow
 <code>Rainer Lima Gramm</code>
-### Generated files
+### Link's Uteis:
 This repository contains generated files and a checksum.
+* [Learning Plans](https://developer.servicenow.com/app.do#!/lp?v=kingston)
+- New to ServiceNow
+- ServiceNow Administrator
+- ServiceNow Application Developer
+- Technology Partner Program Quick Start
+- Technology Partner Program
+
 
 **Do not edit the files in this repository outside of an instance of ServiceNow.**
 ## Built With
