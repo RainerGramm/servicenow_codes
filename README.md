@@ -1,5 +1,6 @@
 # ServiceNow
-<code>Rainer Lima Gramm</code>
+
+
 ### Link's Uteis:
 * [Learning Plans](https://developer.servicenow.com/app.do#!/lp?v=kingston)
 1. New to ServiceNow
