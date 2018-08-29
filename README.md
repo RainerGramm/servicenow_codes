@@ -1,4 +1,4 @@
-<center># ServiceNow</center>
+# ServiceNow
 <code>Teste</code>
 ### Generated files
 This repository contains generated files and a checksum.
